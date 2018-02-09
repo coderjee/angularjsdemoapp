@@ -1,0 +1,16 @@
+{
+  "name": "angularjsdemo",
+  "version": "1.0.0",
+  "description": "Angularjs components demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "bower install"
+  },
+  "author": "Shubham Verma",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.8.2",
+    "express": "^4.16.2"
+  }
+}
